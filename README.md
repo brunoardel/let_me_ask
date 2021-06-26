@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O letmeask é um app gerenciador de perguntas. Um administrador pode receber varias perguntas, elas podem ser destacadas, curtidas, respondidas ou excluidas.
+O letmeask é um app gerenciador de perguntas. Um administrador pode receber várias perguntas, elas podem ser destacadas, curtidas, respondidas ou excluídas.
 
 ## 🔖 Layout
 
